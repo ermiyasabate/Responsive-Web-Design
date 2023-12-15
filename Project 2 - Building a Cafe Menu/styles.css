@@ -19,7 +19,7 @@ p {
     display: inline-block;
 }
 
-.flavor {
+.flavor, .dessert {
     text-align: left;
     width: 75%;
 }
