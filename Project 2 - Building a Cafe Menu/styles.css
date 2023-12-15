@@ -49,3 +49,7 @@ h2 {
     text-align: right;
     width: 22%;
 }
+
+hr {
+    height: 3px;
+}
