@@ -18,6 +18,10 @@ p {
     text-align: center;
 }
 
+h1, h2 {
+    font-family: Impact;
+}
+
 .item p {
     display: inline-block;
 }
