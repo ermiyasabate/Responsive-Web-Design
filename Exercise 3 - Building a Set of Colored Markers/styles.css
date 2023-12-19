@@ -25,13 +25,14 @@ h1 {
     border-left: 10px double rgba(0, 0, 0, .75);
 }
 
-.cap, .sleeve {
+.cap,
+.sleeve {
     display: inline-block;
 }
 
 .red {
     background: linear-gradient(rgb(127, 074, 14), rgb(245, 62, 113), rgb(162, 27, 27));
-    box-shadow: 0 0 20px 0 red;
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
 }
 
 .green {
