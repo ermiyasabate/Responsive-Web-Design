@@ -8,7 +8,8 @@ body {
     font-size: 16px;
 }
 
-h1, p {
+h1,
+p {
     margin: 1em auto;
     text-align: center;
 }
@@ -30,7 +31,9 @@ fieldset:last-of-type {
     border-bottom: none;
 }
 
-input, textarea, select {
+input,
+textarea,
+select {
     width: 100%;
     margin-top: 10px;
     margin-bottom: 0;
@@ -41,4 +44,8 @@ input, textarea, select {
 label {
     display: block;
     margin: 0.5rem 0;
+}
+
+.inline {
+    width: unset;
 }
