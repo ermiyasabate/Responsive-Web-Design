@@ -61,3 +61,8 @@ input, textarea {
     border: 1px solid #0A0A23;
     color: #FFFFFF;
 }
+
+input[type="submit"] {
+    display: block;
+    width: 60%;
+}
