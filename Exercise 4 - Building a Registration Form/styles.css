@@ -68,4 +68,6 @@ input[type="submit"] {
     margin: 0 auto;
     height: 2em;
     font-size: 1.1rem;
+    background-color: #3B3B4F;
+    border-color: white;
 }
