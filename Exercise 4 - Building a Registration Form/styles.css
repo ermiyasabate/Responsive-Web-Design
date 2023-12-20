@@ -58,4 +58,6 @@ label {
 input, textarea {
     background-color: #0A0A23;
     border: 1px solid #0A0A23;
+    color: #FFFFFF;
+    min-height: 2EM;
 }
